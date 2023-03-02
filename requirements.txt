@@ -1,0 +1,4 @@
+boto3
+mediapipe
+opencv-python
+tf-nightly
