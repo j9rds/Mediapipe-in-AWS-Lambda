@@ -18,8 +18,9 @@ The input event should be a dictionary with a single key-value pair. The key sho
 
 ## Usage/Examples
 
-"bucket" (optional): the name of the S3 bucket where the input image file is stored. If not provided, the default bucket name "action-validation" will be used.
-"key": the key of the input image file in the S3 bucket.
+**bucket** (optional): the name of the S3 bucket where the input image file is stored. If not provided, the default bucket name **action-validation** will be used.
+**key**: the key of the input image file in the S3 bucket.
+
 Output
 The output of the function is a dictionary with the following keys:
 
